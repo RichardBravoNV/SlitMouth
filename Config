@@ -1,14 +1,10 @@
 {
   "title": "Kuchi Ga Saketemo Kimi Niwa",
-  "description": "Miroku-san, the slit-mouth woman, is to marry high school student Kouichi to maintain her existence as his family has been in charge of
-upkeeping superstitions for generations. To add, there seems to be another reason that he seems more than willing...
-
-Miroku, however, would rather use her own strength than borrow that of others. Thus, they establish a contract as follows.
-1. For a trial period of a year, they are to act as though they were married.
-2. If she is able to scare him within that year, the engagement will be broken.",
+  "description": "Miroku-san, the slit-mouth woman, is to marry high school student Kouichi to maintain her existence as his family has been in",
   "artist": "Kajimoto Akari",
   "author": "Kajimoto Akari",
   "cover": "https://pbs.twimg.com/media/EuwoOsZXcAE410D.png",
+  
   "chapters": {
     "Chapter 01": {
       "title": "Kuchi ga Saketemo Kimi ni wa  01",
@@ -21,11 +17,12 @@ Miroku, however, would rather use her own strength than borrow that of others. T
     
      "Chapter 13": {
       "title": "Kuchi ga Saketemo Kimi ni wa  13",
-      "volume": "13",
+      "volume": "2",
       "groups": {
         "LPDA Translations": "/proxy/api/imgur/chapter/gOdziX7/"
       },
       "last_updated": "1616368746"
-    },
+    }
+    
   }
 }
