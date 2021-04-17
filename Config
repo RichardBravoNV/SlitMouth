@@ -6,7 +6,7 @@
   "cover": "https://pbs.twimg.com/media/EuwoOsZXcAE410D.png",
   
   "chapters": {
-    "Chapter 01": {
+    "01": {
       "title": "Kuchi ga Saketemo Kimi ni wa  01",
       "volume": "1",
       "groups": {
@@ -15,7 +15,7 @@
       "last_updated": "1616368746"
     },
     
-     "Chapter 13": {
+     "13": {
       "title": "Kuchi ga Saketemo Kimi ni wa  13",
       "volume": "2",
       "groups": {
